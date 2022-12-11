@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **dhruva81/dhruva81** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<h1>Hi 👋, I'm Dinesh Karada</h1>
+<div align="left" inline>
+<span align="left"> <a href="https://twitter.com/_dhruva" target="blank"><img src="https://img.shields.io/twitter/follow/_dhruva?logo=twitter&style=for-the-badge" alt="dhruva" /></a> </span>
+</div>
+
+<h4>I am a full-stack Laravel developer, working heavily with the TALL stack. </h4>
+
+
